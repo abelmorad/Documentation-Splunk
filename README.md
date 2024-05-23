@@ -11,7 +11,7 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 ## 3. Challenge Walkthrough
 
 ### 3.1 Lesson: SIEM Tools
-- **Objective**: Perform a query with Splunk
+- **Objective**: Perform a query with Splunk to locate failed SSH login(s) for the root account
 
 ### 3.2: Procedure
 
@@ -64,17 +64,16 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 - Continue to narrow the search to locate any failed SSH logins for the root account. In the search bar enter `index=main host=mailsv fail* root`. This search expands on the search from the previous task and searches for the keyword fail*. The wildcard tells Splunk to expand the search term to find other terms that contain the word fail such as failure, failed, etc. Lastly, the keyword root searches for any event that contains the term root. Press Enter.
 ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/2aea47db-a711-4c60-b7b6-b6d1265bf26d)
 
-
-
-
-
+- Result
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/5d0f0a72-c9bc-4b1c-a0e6-18b3db1d3883)
+ - There are a total of 109,864 events
+ - There are 346 failed ssh logins for the root account on the mail server
 
 5. Analysis and Reflection
-Challenges Faced: Difficulty in identifying the exact version of Apache.
-Learnings: Importance of thorough enumeration.
-Improvements: Try alternative enumeration techniques earlier.
+Learnings: Querying in splunk
 6. Conclusion
-Summary: Successfully gained root access and captured the flag
+Summary: Successfully determined the failed ssh logins on the mail server's root account
 7. References
-TryHackMe
-Nmap Documentation
+(https://www.splunk.com/[https://www.splunk.com/])
+(https://grow.google/certificates/cybersecurity/[https://grow.google/certificates/cybersecurity/])
+(SPL syntax[https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax])
