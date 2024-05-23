@@ -51,6 +51,16 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/56b59171-fbd9-42ac-b236-b6939df083d8)
   - Examine the field values by clicking on the field under SELECTED FIELDS. You should observe the following:
     - ***host***: The host field specifies the name of the network host from which the event originated. In this search there are five hosts:
+      ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/e1501ab7-3c96-4ee7-a2ed-fdd98078ccf6)
+    - ***source***: The source field indicates the file name from which the event originates. You should identify eight sources. Notice /mailsv/secure.log, which is a log file that contains information related to authentication and authorization attempts on the mail server.
+      ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/ffb98306-99f0-4c0a-b766-283c25ac7943)
+    - ***sourcetype***: The sourcetype determines how data is formatted. You should observe three sourcetypes. Examine secure-2.
+      ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/09089b8a-a536-4e50-aa9e-7f85e4281ac5)
+
+
+
+
+
 
 
 
