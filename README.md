@@ -76,6 +76,6 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 - Summary: Successfully determined the failed ssh logins on the mail server's root account
   
 ## 7. References
-- (https://www.splunk.com/[https://www.splunk.com/])
-- (https://grow.google/certificates/cybersecurity/[https://grow.google/certificates/cybersecurity/])
-- (SPL syntax[https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax])
+- https://www.splunk.com/[https://www.splunk.com/]
+- https://grow.google/certificates/cybersecurity/[https://grow.google/certificates/cybersecurity/]
+- SPL syntax[https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax]
