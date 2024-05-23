@@ -50,7 +50,7 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 - Evaluate the fields. For each event the fields are host, source, and sourcetype. Under SELECTED FIELDS, examine the same fields.
 ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/56b59171-fbd9-42ac-b236-b6939df083d8)
   - Examine the field values by clicking on the field under SELECTED FIELDS. You should observe the following:
-
+    - ***host***: The host field specifies the name of the network host from which the event originated. In this search there are five hosts:
 
 
 
