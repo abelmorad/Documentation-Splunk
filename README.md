@@ -77,5 +77,6 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
   
 ## 7. References
 - [https://www.splunk.com/](https://www.splunk.com/)
+- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [https://grow.google/certificates/cybersecurity/](https://grow.google/certificates/cybersecurity/)
 - [SPL syntax](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax)
