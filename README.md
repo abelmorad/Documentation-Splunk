@@ -69,11 +69,13 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
  - There are a total of 109,864 events
  - There are 346 failed ssh logins for the root account on the mail server
 
-5. Analysis and Reflection
-Learnings: Querying in splunk
-6. Conclusion
-Summary: Successfully determined the failed ssh logins on the mail server's root account
-7. References
-(https://www.splunk.com/[https://www.splunk.com/])
-(https://grow.google/certificates/cybersecurity/[https://grow.google/certificates/cybersecurity/])
-(SPL syntax[https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax])
+## 5. Analysis and Reflection
+- Learnings: Querying in splunk
+
+## 6. Conclusion
+- Summary: Successfully determined the failed ssh logins on the mail server's root account
+  
+## 7. References
+- (https://www.splunk.com/[https://www.splunk.com/])
+- (https://grow.google/certificates/cybersecurity/[https://grow.google/certificates/cybersecurity/])
+- (SPL syntax[https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/UnderstandingSPLsyntax])
