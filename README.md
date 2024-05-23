@@ -58,7 +58,11 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
     - ***sourcetype***: The sourcetype determines how data is formatted. You should observe three sourcetypes. Examine secure-2.
       ![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/09089b8a-a536-4e50-aa9e-7f85e4281ac5)
 
+- Narrow search by clicking host and click mailsv
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/911502f3-7000-4cfa-bade-33add7ae3748)
 
+- Continue to narrow the search to locate any failed SSH logins for the root account. In the search bar enter `index=main host=mailsv fail* root`. This search expands on the search from the previous task and searches for the keyword fail*. The wildcard tells Splunk to expand the search term to find other terms that contain the word fail such as failure, failed, etc. Lastly, the keyword root searches for any event that contains the term root. Press Enter.
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/2aea47db-a711-4c60-b7b6-b6d1265bf26d)
 
 
 
