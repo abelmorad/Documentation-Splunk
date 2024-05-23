@@ -1,4 +1,4 @@
-# Documentation: Google Cybersecurity #02
+# Documentation: Google Cybersecurity Certificate Program
 
 ## 1. Introduction
 Purpose: Document my experience and share knowledge on the Google cybersecurity certificate program
