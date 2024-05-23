@@ -36,6 +36,17 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
 
 - Click submit button
 
+- On the homepage click search & reporting
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/a1c52c7b-9cd8-48a0-a30c-c8c18eb7c2dd)
+
+- In the search bar type `index=main` this search term specifies the index. An index is a repository for data. Here, the index is a single dataset containing events from an index named main.
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/146083bd-8c41-4107-b5c1-597047ca93fc)
+
+- Click the range dropdown menu and select All time
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/4f0ce97b-9edc-4ec2-8a1f-81ce6984fffa)
+ 
+- Click the search button or press enter. Note that the search button is represented by the magnifying glass icon. Your search should retrieve thousands of events.
+
 
 
 
