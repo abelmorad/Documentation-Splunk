@@ -47,6 +47,9 @@ Scope: Learn the foundations of cybersecurity and prepare for a career as a cybe
  
 - Click the search button or press enter. Note that the search button is represented by the magnifying glass icon. Your search should retrieve thousands of events.
 
+- Evaluate the fields. For each event the fields are host, source, and sourcetype. Under SELECTED FIELDS, examine the same fields.
+![image](https://github.com/abelmorad/Documentation-Splunk/assets/110463619/56b59171-fbd9-42ac-b236-b6939df083d8)
+-- Examine the field values by clicking on the field under SELECTED FIELDS. You should observe the following:
 
 
 
