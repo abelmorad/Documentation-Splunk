@@ -5,8 +5,8 @@ Purpose: Document my experience and share knowledge on the Google cybersecurity 
 Scope: Learn the foundations of cybersecurity and prepare for a career as a cybersecurity analyst
 
 ## 2. Setup
-Environment: Windows OS, Brave browser, and Splunk Cloud
-Accounts and Access: Google, coursera, and splunk accounts
+- Environment: Windows OS, Brave browser, and Splunk Cloud
+- Accounts and Access: Google, coursera, and splunk accounts
 
 ## 3. Challenge Walkthrough
 
