@@ -11,7 +11,7 @@ Accounts and Access: Google, coursera, and splunk accounts
 ## 3. Challenge Walkthrough
 
 ### 3.1 Lesson: SIEM Tools
-**Objective**: Perform a query with Splunk
+- **Objective**: Perform a query with Splunk
 
 ### 3.2: Procedure
 
