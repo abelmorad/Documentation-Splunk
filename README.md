@@ -1,4 +1,4 @@
-# Documentation: Google Cybersecurity Certificate Program
+# Documentation: Querying with Splunk #01
 
 ## 1. Introduction
 Purpose: Document my experience and share knowledge on the Google cybersecurity certificate program
